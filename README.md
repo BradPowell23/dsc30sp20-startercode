@@ -12,7 +12,7 @@ This is the starter code repository for DSC 30 Spring 2020. For information abou
 | 04 | Doubly-Linked List | 4/27 Monday 11:59 pm | [Google Docs](https://docs.google.com/document/d/1h6kehpeD1zq3rTrCcps72EJp9YGoGR4-7H8o0eklHCI/edit?usp=sharing) | [PA04 folder](https://github.com/ucsd-ets/dsc30sp20-startercode/tree/master/PA04) |
 | 05 | Sorting Algorithms | 5/4 Monday 11:59 pm | [Google Docs](https://docs.google.com/document/d/1xnYz5tnEGlgIb6rr2h608X6jDRlxg5UbHsuD5V3W9cE/edit?usp=sharing) | [PA05 folder](https://github.com/ucsd-ets/dsc30sp20-startercode/tree/master/PA05) |
 | 06 | Binary Search Tree | 5/11 Monday 11:59 pm | [Google Docs](https://docs.google.com/document/d/1PMkUenb33arK74Lne-Wt_9h7QwhW0xVXS-TQRHeYnYw/edit?usp=sharing) | [PA06 folder](https://github.com/ucsd-ets/dsc30sp20-startercode/tree/master/PA06) |
-| 07 |  |  |  |  |
+| 07 | d-Heap | 5/18 Monday 11:59 pm | [Google Docs](https://docs.google.com/document/d/1530qx56bHz27Pp5-Bk7E3At8osrPje4po5gLz3XBBPI/edit?usp=sharing) | [PA07 folder](https://github.com/ucsd-ets/dsc30sp20-startercode/tree/master/PA07) |
 | 08 |  |  |  |  |
 | 09 |  |  |  |  |
 | 10 |  |  |  |  |
