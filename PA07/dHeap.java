@@ -18,7 +18,7 @@ public class dHeap<T extends Comparable<? super T>> implements dHeapInterface<T>
     private boolean isMaxHeap; // boolean to indicate whether heap is max or min
 
     /**
-     * Initializes a binary max heap with capacity = 5
+     * Initializes a binary max heap with capacity = 6
      */
     @SuppressWarnings("unchecked")
     public dHeap() {
