@@ -66,7 +66,7 @@ public class DAFTree<K extends Comparable<? super K>, D> implements Iterable {
             return -1;
         }
 
-        /* PROVIDED HELPERS, DO NOT MODIFY! */
+        /* PROVIDED HELPERS, MODIFY WITH CAUTION! */
 
         /**
          * Public helper to swap all DAFNode references of this and the given node.
@@ -275,7 +275,7 @@ public class DAFTree<K extends Comparable<? super K>, D> implements Iterable {
         }
     }
 
-    /* PROVIDED HELPERS, DO NOT MODIFY! */
+    /* PROVIDED HELPERS, MODIFY WITH CAUTION! */
 
     /**
      * Public helper to remove the given node in BST's remove style.
